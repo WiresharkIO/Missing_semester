@@ -23,5 +23,3 @@ source -  https://xkcd.com/
 
 
 3. I found out that the wsl2 doesn't have GUI-Env(to set or tryout with resolution) like the native linux distributions, since wsl is a CLI. Therefore I externally installed a DE named xfce4(may change it later to different like recommended in lectures), I got to know by some reads that GNOME with wsl will be tedious, so I chose to go with this one(xfce4).
-
-HIII
