@@ -1,12 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2x_BM7rt)
-# TITLE
-
-| Author        | Vishal Sivakumar |
-| ------------- | ---------------- |
-| Matrikelnummer|     5253589      |
-
-
-## Exercise 1.1
+## Exercise Answers
 
 1. I'm currenlty using wsl2 - ubuntu(may change it later to native)
 <img width="300" alt="Screenshot 2023-10-26 100617" src="https://github.com/freiburg-missing-semester-course/01-introduction-linux-WiresharkIO/assets/14985440/8ce4d457-e0c1-4a17-b121-843b742620da">
