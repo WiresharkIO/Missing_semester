@@ -17,17 +17,10 @@ When I initially fired up emacs, I saw this highly minimalistic view of the good
 3. python-mode     - To enable language functionalities(however didn't use it in this report).
 4. auto-completion with company-mode.
 
-This configuration file allows to install everyhting when the emacs is loaded, and the user doesn't need to check individual dependencies everytime in the minibuffer.
+This configuration file allows to install everything when the emacs is loaded, and the user doesn't need to check individual dependencies everytime in the minibuffer.
 
 I feel there are tons of more emacs cpabilities which I didn't tried yet.
 
 > __Difference of Emacs from editors__
 
-- I experienced that I'm using a lot of key-bindings to run operations, than I did with my previous IDEs say Pycharm, VScode,..
-
-
-| Author           | VISHAL SIVAKUMAR |
-| ---------------- | ---------------- |
-| Matrikelnummer   |     5253589      |
-
-__END__
+I experienced that I'm using a lot of key-bindings to run operations, than I did with my previous IDEs say Pycharm, VScode,..
