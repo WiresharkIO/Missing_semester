@@ -15,7 +15,7 @@ When I initially fired up emacs, I saw this highly minimalistic view of the good
 > __Configuration file__
 - Added a configuration file, init.el to install tools like:
 1. magit           - To enable Github functionalities from the editor on the flow.
-2. spacemacs-theme - To change theme to dark mode from initial white mode, python packages.
+2. spacemacs-theme - To change theme to dark mode from initial white mode.
 3. python-mode     - To enable language functionalities(however didn't use it in this report).
 4. auto-completion with company-mode.
 
