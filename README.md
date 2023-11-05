@@ -10,6 +10,12 @@
 <img width="40" alt="vim" src="https://github.com/WiresharkIO/Missing_semester/assets/14985440/c4bc1466-0f51-4dc3-835e-abd2bebb707d">
 
 *********************************
+This repo will consist of the topics like **Linux, LaTex, VM, Desktop-Env(DE), GitHub** and a final project based on these topics.
 
-> This repo will consist of the topics like **Linux, LaTex, VM, Desktop-Env(DE), GitHub** and a final project based on these topics.
+__currently completed topics__
+> Intro. to Linux
+
+> Emacs/LSP/tree-sitter
+
+> Terminal
 
