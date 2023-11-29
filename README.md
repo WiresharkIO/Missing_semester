@@ -13,9 +13,12 @@
 This repo will consist of the topics like **Linux, LaTex, VM, Desktop-Env(DE), GitHub** and a final project based on these topics.
 
 __currently completed topics__
-> Intro. to Linux
+> Introdution to Linux Envs
 
-> Emacs/LSP/tree-sitter
+> Emacs
 
 > Terminal
 
+> Git
+
+> Vim
