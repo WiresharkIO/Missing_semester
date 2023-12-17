@@ -13,6 +13,9 @@
 
 <img width="40" alt="vim" src="https://github.com/WiresharkIO/Missing_semester/assets/14985440/c4bc1466-0f51-4dc3-835e-abd2bebb707d">
 
+<img width="40" alt="Bash" src="https://github.com/WiresharkIO/Missing_semester/assets/14985440/589151d0-655a-4685-b6aa-6d4c4604293d">
+
+<img width="40" alt="VScode" src="https://github.com/WiresharkIO/Missing_semester/assets/14985440/eebde132-25f4-4ac8-98f3-c932a1b8a903">
 
 
 ***********************************
@@ -30,3 +33,5 @@ __currently completed topics__
 > Vim
 
 > BAsh vs PYthon
+
+> VS code
