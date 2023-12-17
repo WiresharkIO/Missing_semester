@@ -22,3 +22,5 @@ __currently completed topics__
 > Git
 
 > Vim
+
+> BAsh vs PYthon
