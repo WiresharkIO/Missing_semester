@@ -17,6 +17,8 @@
 
 <img width="40" alt="VScode" src="https://github.com/WiresharkIO/Missing_semester/assets/14985440/eebde132-25f4-4ac8-98f3-c932a1b8a903">
 
+<img width="40" alt="JNB" src="https://github.com/WiresharkIO/Missing_semester/assets/14985440/85748c0f-c697-4dbb-9d27-d855ef99d910">
+
 
 ***********************************
 This repository will consist of the topics like **Linux, LaTex, VM, Desktop-Env(DE), GitHub** and a final project based on these topics.
@@ -35,3 +37,5 @@ __currently completed topics__
 > BAsh vs PYthon
 
 > VS code
+
+> Matplotlib/gnuplot
