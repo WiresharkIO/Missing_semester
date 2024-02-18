@@ -19,6 +19,8 @@
 
 <img width="40" alt="JNB" src="https://github.com/WiresharkIO/Missing_semester/assets/14985440/85748c0f-c697-4dbb-9d27-d855ef99d910">
 
+<img width="120" alt="LLM" src="https://github.com/WiresharkIO/Missing_semester/assets/14985440/5270812f-d910-48ff-bccd-ec395f181556">
+
 
 ***********************************
 This repository will consist of the topics like **Linux, LaTex, VM, Desktop-Env(DE), GitHub** and a final project based on these topics.
@@ -39,3 +41,7 @@ __currently completed topics__
 > VS code
 
 > Matplotlib/gnuplot
+
+> LaTex
+
+> LLM (using model from Mistral AI)  
